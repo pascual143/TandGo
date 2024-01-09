@@ -18,6 +18,7 @@
 - Footer
 - Contact
 - About
+- Video
 
 
 
